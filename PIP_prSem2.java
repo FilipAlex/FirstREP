@@ -6,6 +6,7 @@ public class PIP_prSem2 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Folder PIP-proiect! \n");
+		System.out.println("---VIZITATOR----");
 
 	}
 
